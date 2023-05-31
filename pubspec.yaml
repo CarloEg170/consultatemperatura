@@ -16,3 +16,4 @@ dependencies:
   http: ^0.13.6
   dio: ^5.1.2
   intl: ^0.18.1
+  xml: ^6.3.0
